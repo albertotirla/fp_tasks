@@ -16,7 +16,7 @@ namespace pb38
             //we know factorial(3)=6, so we test it here, as not to introduce extraneous boilerplate
             if (factorial(3) == 6)
             {
-                Console.WriteLine("everything works right");
+                Console.WriteLine("everything works right");    
             }
             else
             {
